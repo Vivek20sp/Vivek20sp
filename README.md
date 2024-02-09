@@ -1,3 +1,4 @@
+![logo](https://github.com/Vivek20sp/Vivek20sp/blob/a648f4a61b63643a71bdb287f73cb72dedd42997/Vivek%20Banner.png)
 <h1 align="center">Hi 👋, I'm Vivek Shankar Phadake</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" width=400 alt="Coding" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif"/>
